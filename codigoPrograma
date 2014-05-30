@@ -5,3 +5,7 @@ Este fichero será modificado muy a menudo
 Con branch se puede trabajar en paralelo
 
 Se pueden añadir dependencias de otros ficheros
+
+Con branch se puede trabajar en paralelo
+
+Con rebase se aplican los cambios producidos en otras ramas
